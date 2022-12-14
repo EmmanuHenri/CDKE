@@ -1,0 +1,29 @@
+.Sobre{
+    font-size: xx-large;
+}
+
+
+
+.Nós{
+    text-align: center;
+    font-size: x-large;
+}
+
+.button{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+.botao{ 
+    border: none;
+    border-radius: 10px;
+    background-color: lightblue;
+    font-family: cursive;
+    font-size: larger;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    cursor: pointer;
+}
